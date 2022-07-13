@@ -119,7 +119,7 @@ for(dia_janeiro=28;dia_janeiro<31;++dia_janeiro)
 	printf("%d ",dias_janeiro[dia_janeiro]);
 printf("\n\n");
 	
-printf("Dia 1- Confraternização Universal\n\n");
+printf("Dia 1- ConfraternizaÃ§Ã£o Universal\n\n");
 	
 printf("Fevereiro\n\n");
 
@@ -204,7 +204,7 @@ Calculacinzas(ano, d, m, cinzas, DiasMes);
 if(cinzas[1]==2)
 	printf("Dia %d - Cinzas\n\n", cinzas[0]);
 
-printf("Março\n\n");
+printf("MarÃ§o\n\n");
 
 int dias_marco[31]={1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31};
 int dia_mar=0;
@@ -225,7 +225,7 @@ for(dia_mar=28;dia_mar<31;++dia_mar)
 printf("\n\n");
 
 if(Cristo_mes==3)
-	printf("%d- Paixão de Cristo\n\n",Cristo_dia);
+	printf("%d- PaixÃ£o de Cristo\n\n",Cristo_dia);
 if(m==3)
 	printf("%d - Pascoa\n\n",d);
 	
@@ -234,8 +234,8 @@ Calculacinzas(ano, d, m, cinzas, DiasMes);
 if(cinzas[1]==3)
 	printf("Dia %d - Cinzas\n\n", cinzas[0]);
 
-printf("Dia 20 -Equinócio de outono\n\n");	
-printf("Dia 20 -Início do outono\n\n");
+printf("Dia 20 -EquinÃ³cio de outono\n\n");	
+printf("Dia 20 -InÃ­cio do outono\n\n");
 		
 printf("Abril\n\n");
 		
@@ -258,7 +258,7 @@ for(dia=28;dia<30;++dia)
 printf("\n\n");
 
 if(Cristo_mes==4)
-	printf("%d- Paixão de Cristo\n\n",Cristo_dia);
+	printf("%d- PaixÃ£o de Cristo\n\n",Cristo_dia);
 if(m==4)
 	printf("%d- Pascoa\n\n",d);
 
@@ -302,7 +302,7 @@ for(dia_junho=28;dia_junho<30;++dia_junho)
 	printf("%d ",dias_junho[dia_junho]);
 printf("\n\n");
 		
-printf("Dia 21 -Início do inverno\n\n");
+printf("Dia 21 -InÃ­cio do inverno\n\n");
 		
 printf("Julho\n\n");
 		
@@ -344,7 +344,7 @@ for(dia_agosto=28;dia_agosto<31;++dia_agosto)
 	printf("%d " ,dias_agosto[dia_agosto]);
 printf("\n\n");
 		
-printf("Dia 20- Aniversário de São Bernardo\n\n-");
+printf("Dia 20- AniversÃ¡rio de SÃ£o Bernardo\n\n-");
 	
 printf("Setembro\n\n");
 	
@@ -366,8 +366,8 @@ for(dia_setembro=28;dia_setembro<30;++dia_setembro)
 	printf("%d ",dias_setembro[dia_setembro]);
 printf("\n\n");
 		
-printf("Dia 22 -Equinócio de primavera\n\n");	
-printf("Dia 22 -Início da primavera\n\n");
+printf("Dia 22 -EquinÃ³cio de primavera\n\n");	
+printf("Dia 22 -InÃ­cio da primavera\n\n");
 		
 printf("Outubro\n\n");
 		
@@ -429,7 +429,7 @@ for(dia_dezembro=28;dia_dezembro<31;++dia_dezembro)
 	printf("%d ",dias_dezembro[dia_dezembro]);
 printf("\n\n");
 		
-printf("Dia 21 -Início do verão\n");
+printf("Dia 21 -InÃ­cio do verÃ£o\n");
 	
 	
 printf("Dia 25-Natal");
